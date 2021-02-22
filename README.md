@@ -1,5 +1,4 @@
-# Android Studio - android-gradle-deprecation-unchecked-flag
-### Recompile with "-Xlint:deprecation" and/or "-Xlint:unchecked" flag
+# Android - Recompile with "-Xlint:deprecation" and/or "-Xlint:unchecked" flag
 
 After building an app, Gradle throws a warning indicating that some files are using or overriding a deprecated API, or that they are using unchecked or unsafe operations.
 
